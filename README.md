@@ -1,5 +1,7 @@
 # airflow-macros
 
+Exemplo para a utilização de macros com duas abordagens, a primeira é a utilização de plugin, enquanto a segunda é a utilização de user_defined_macros.
+
 ## Plugin
 
 Implementação e utilização de plugin para gerar macros genéricas. Quando feita a macro via plugin é possível utilizar em qualquer DAG do Airflow.
